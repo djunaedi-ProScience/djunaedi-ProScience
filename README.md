@@ -2,6 +2,8 @@
 * * *
 I am a self-taught learner with a strong focus on front-end development. I enjoy designing interfaces in both 2D and 3D, and I have a side passion for 3D animation. I love exploring new ideas and have a deep appreciation for standardized coding practices. Additionally, I enjoy sharing knowledge and guiding those who are eager to learn.
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=djunaedi-ProScience.TikViews) [![Github](https://img.shields.io/github/followers/djunaedi-ProScience?label=Follow&style=social)](https://github.com/djunaedi-ProScience)
+
 * * *
 
 ## FunFact About Me ( ˶°ㅁ°) !!
