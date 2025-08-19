@@ -28,6 +28,11 @@ I am a self-taught learner with a strong focus on front-end development. I enjoy
 [![twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/Kumanistik) [![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/djunaedi-pakamundi)[![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/djunaedi_pakamundi)[![youtube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@kyumanrr5403)
 
 * * *
+### 📫 Let's Connect!
+
+- ✉️ Email: [djunaedi-ProScience](mailto:djunaedi.pakamundi@gmail.com)
+- 💬 DM me on [Instagram](https://www.instagram.com/djunaedi_pakamundi/) 
+* * *
 
 # 📊 GitHub Stats:
 
